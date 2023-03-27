@@ -1,0 +1,18 @@
+button {
+  padding: 15px 30px;
+  background-color: lightgreen;
+  border:none;
+  border-radius: 5px;
+  font-weight: bold;
+  text-transform: uppercase;
+  transition: all 200ms ease-in-out;
+  cursor: pointer;
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+}
+
+button:hover{
+background-color: blueviolet;
+box-shadow: rgba(0, 0, 0, 0.32) 0px 6px 12px, rgba(0, 0, 0, 0.46) 0px 6px 12px;
+transform: translateY(-2px);
+color: lightcyan;
+}

@@ -1,0 +1,15 @@
+
+.card h2{
+  text-align: center;
+}
+
+.card p {
+  text-align: center;
+  padding: 0px 20%;
+}
+
+.card img {
+  width: 50%;
+  height: 500px;
+  object-fit: cover;
+}
